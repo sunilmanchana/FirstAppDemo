@@ -9,7 +9,7 @@ public class DataTypes {
 		float c=a/b;
 		System.out.println(c);
 		double d=a+b;
-		System.out.prinltn(d);
+		System.out.println(d);
 
 	}
 
