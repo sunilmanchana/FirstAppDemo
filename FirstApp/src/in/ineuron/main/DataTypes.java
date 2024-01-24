@@ -10,6 +10,7 @@ public class DataTypes {
 		System.out.println(c);
 		double d=a+b;
 		System.out.println(d);
+		int z[];
 
 	}
 
