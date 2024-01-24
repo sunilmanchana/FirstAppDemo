@@ -8,6 +8,8 @@ public class DataTypes {
 		int b=2;
 		float c=a/b;
 		System.out.println(c);
+		double d=a+b;
+		System.out.prinltn(d);
 
 	}
 
